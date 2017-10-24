@@ -1,0 +1,2102 @@
+/nfs/rome2/PlayDrone1000Category/GAME/com.mw.rouletteroyale-70.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wusa.android.weather-28300.apk
+/nfs/rome2/PlayDrone1000Category/GAME/com.gameloft.android.ANMP.GloftRAHM-14032.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.mw.rouletteroyale-70.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wusa.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.gameloft.android.ANMP.GloftRAHM-14032.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.puns.kst.what-135.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/org.brandroid.openmanager-251.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.prague-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.canica.apps.basket-8.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/f
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::53366                :::*                    LISTEN      6997/com.call4freep
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.spr1te.getlikes-12.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIFESTYLE/com.chbreeze.jikbang4a-68.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/EDUCATION/com.rtve.clan-26.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.khnl.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.dubai-42.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/nl.omroep.npo.radio2-36.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.aceviral.agrr-16.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/ENTERTAINMENT/com.deped.GloboMaisAndroid-10.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.waff.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.orchid.newyearmeteor-4.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/tiempoensantiago.net.tiempoensantiago-13040713.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::47593                :::*                    LISTEN      19452/tiempoensanti
+tcp        0      0 :::53263                :::*                    LISTEN      19452/tiempoensanti
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wofl.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wbrc.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BOOKS_AND_REFERENCE/com.kyobo.ebook.common.b2c-229.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/fahrbot.apps.rootcallblocker.beta-20033006.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMICS/com.appmk.magazine.AOTMKEBIHLQBANWMZ-2.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIBRARIES_AND_DEMO/org.datootek.phone-3180.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/nh.smart.nhibzbanking-5.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::9378                 :::*                    LISTEN      27545/nh.smart.nhib
+tcp        0      0 :::2820                 :::*                    LISTEN      27253/nh.smart.nhib
+END
+/nfs/rome2/PlayDrone1000Category/EDUCATION/com.alkalinelabs.learnguitarchords-30.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/EDUCATION/com.intriga_games.intrigaenglishteacher-9.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/com.rhmsoft.fm-11720068.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/net.greenmon.flava-96.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/avalle.net.eltiempoenchile-1.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::40661                :::*                    LISTEN      32459/avalle.net.el
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.nianticproject.ingress-10630.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.accurate.chat-24.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.walb.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.wjp.zombie-9180.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.gtp.nextlauncher.liverpaper.firedragon-6.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.losangeles-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kwch.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.apptivateme.next.la-31.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIBRARIES_AND_DEMO/org.ruboto.core-10002.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wbir.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.app4joy.racing_free-261.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/au.com.commsec.android.CommSec-839.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRANSPORTATION/com.tappsi.passenger.android-5314219.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.elsayad.footballfixtures-32.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wwbt.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.passwordbox.passwordbox-208.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SHOPPING/com.zulily.android-60.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMICS/kr.co.orangesoft.smartcomic-31.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.bytesequencing.android.dominoes.free-82.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.ludia.jurassicpark-121.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.inturi.net.android.storagereport-73.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.ksdk.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.parksmt.jejuair.android16-13.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::4574                 :::*                    LISTEN      25308/com.parksmt.j
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.inisoft.mediaplayer.a-174.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.sonelli.juicessh-96.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRANSPORTATION/appinventor.ai_juansalcedo4.Tappsista-7311440.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.gi.elmundo.main-57.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/com.penpower.worldictionaryLite-27.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.appling.snowfall2014-22.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/it.h3g.sport.diretta.serieaeb-53.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/se.tv4.fotbollskanalen.ui-17.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PHOTOGRAPHY/com.Slideshow-29.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/com.akitorg.agent-95.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wfmy.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.evite-3.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/ru.mtt.android.mttphone-27.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:35.0.122.225:28003 :::*                    LISTEN      5970/com.skype.raid
+tcp        0      0 ::ffff:127.0.0.1:53414  :::*                    LISTEN      -
+END
+/nfs/rome2/PlayDrone1000Category/LIBRARIES_AND_DEMO/com.ros.turtlebot.apps.panorama-102.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.sg.mc.android.itoday-24.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/pl.fotka.app-8121062.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/net.daum.android.daum-208.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.metago.astro.network.bluetooth-6.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/kr.go.mw-23.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.mendhak.gpslogger-55.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.ktuu.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.creativemobile.dr4x4-1000100.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/es.metromadrid.metroandroid-11.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/ie.rte.news-32.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.kydsessc.amzn-89.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRANSPORTATION/com.escort.androidui.root-23.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/com.superpagespr.activities-21.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/EDUCATION/com.quizlet.quizletandroid-27.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/com.billguard.android-71.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.apptivateme.next.ct-29.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.psiphon3-66.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.bubblemotion-48.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/ru.qixi.chat-45.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.frojo.moy2-16.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.wallpaper.hai.newyear1-20.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SHOPPING/com.versus-36.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/com.iwallpaper.exo-1.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wdam.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.exovoid.weather.app-12.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/sg.xingzhi.miu_ptt-31.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.evernote.skitch-2800103.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.grillgames.guitarrockhero-9.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/nextapp.fx-3122.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kfvs.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.enterproid.divideinstaller-7834.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:35.0.122.225:28003 :::*                    LISTEN      28502/com.skype.rai
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wcyb.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.livedoor.www-7.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.tahirhoca.ingilizcegramerkitabim-25.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.tcc.android.dimarzio-61.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.kmplayer-1131.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.mandicmagic.android-50.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.algar.dolphinswatereffect-2.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIFESTYLE/com.ehyundai.mobile-10015.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.gtp.nextlauncher.liverpaper.superliverpaper.timebattle-6.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDICAL/com.doa.doaaariizqd-2.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/emotion.onekm-11205.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.ludia.dragons-82.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.gtp.nextlauncher.liverpaper.NextCore-14.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.rockplayer-20207.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::4450                 :::*                    LISTEN      3260/com.rockplayer
+END
+/nfs/rome2/PlayDrone1000Category/EDUCATION/com.duolingo-142.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wkaq.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.gamevil.monster.global-134.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/com.avaya.ScsCommander-34.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.appling.rain-24.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/com.cisco.jabber-13.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 127.0.0.1:54864         0.0.0.0:*               LISTEN      6751/com.cisco.jabb
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/mong.moptt-109.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.netgear.neotvremote-14.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wdbj.android.weather-28301.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.rtve.actualidaddos-27.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wnbc.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wtoc.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/ENTERTAINMENT/com.koushikdutta.cast-1145.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48960  :::*                    LISTEN      11443/com.google.an
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wcau.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.imbc.imnews.mbcnews-27.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wxix.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.xs.findobject-7.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.frojo.joy-26.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.ktre.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/com.dushengjun.tools.supermoney-98.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDICAL/com.philips.sleepmapper.root-22.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.zombie.road.racing-9104.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMICS/com.appmk.magazine.AOTMPDNNHSDAREJST-2.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BOOKS_AND_REFERENCE/c_file.devushkasoshramom-7.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/com.infraware.polarisoffice.entbiz.citrix-6.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/com.gismart.realdrumfree-161.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/ENTERTAINMENT/com.verizon.fiosmobile-18.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/com.blackspruce.lpd-45.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.streamfurious.android.free-22.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::8081                 :::*                    LISTEN      20636/com.streamfur
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.canica.apps.soccer-8.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/com.airkast.bloomberg.activity-2.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wbff.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/racTravel.app-33.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BOOKS_AND_REFERENCE/bibliabible.com.bbliajooferreiradalmeida-812636.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::59239                :::*                    LISTEN      22400/bibliabible.c
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wafb.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.fuse.android-5.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.appling.ios7glass-17.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.yourelink.makeuptransformation-27.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.FishingStatus-76.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/nl.rtl.rtlnieuws-17.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.sevenknowledge.sevennotestrial-431.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/berserker.android.livewallpapers.waterizelite-40.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIFESTYLE/com.leprechaun.imagenscommensagensdedeus-5.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/br.com.aorta.radioskol.app-20002.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.lamppy.futebol-53.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.amsterdam-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/com.idongbusmart-49.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::8635                 :::*                    LISTEN      26884/com.idongbusm
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wfld.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/com.freeletics.lite-34.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.teenchat-216.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIBRARIES_AND_DEMO/com.experiencelwp.galaxygrand.livewallpaper-1.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::7145                 :::*                    LISTEN      29154/com.experienc
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/net.trekbuddy.midlet-20141001.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.waow.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.gtp.nextlauncher.liverpaper.nextbase-7.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/jp.eure.couples-19.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.smn.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.appling.glasszen-17.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/ruso.hdcar.in.daysrussian-13041413.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::37381                :::*                    LISTEN      32684/ruso.hdcar.in
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.katc.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRANSPORTATION/org.sleepnova.android.taxi-29.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/com.gismart.guitar.tuner-202.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.goconi.bridge-101.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.hongkong-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/com.hyundai.capital-65.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::9239                 :::*                    LISTEN      2268/com.hyundai.ca
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.lixar.allegiant-10040601.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/appmaker.lyn.accentudate-90.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.gtp.nextlauncher.liverpaper.superliverpaper.technology-9.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SHOPPING/com.besprout.sweetfrog-14.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.zumbl.android-74.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/jp.co.omronsoft.BizcaroidLite-16.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.welove520.welove-38.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.agens.android.vgsnarvei-35.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wgn.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/ejercisios.hdcar.in.ejerciciosparaadelgazar-13010821.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::52083                :::*                    LISTEN      4870/ejercisios.hdc
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wsi.android.intellicast-1320.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRANSPORTATION/com.tipid.mrtviewer-14.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/net.zedge.android-4040005.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/my.mobi.android.apps4u.sdcardmanager-365.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.droidhen.game.poker-75.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/com.jvckenwood.kmc-1380.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.bankey.candy-25028.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wcsc.android.weather-28301.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/net.daum.android.tvpot-73.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/de.arvidg.onlineradio-120000.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/ENTERTAINMENT/com.gotv.crackle.handset-109004216.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:58792  :::*                    LISTEN      8402/com.google.and
+END
+/nfs/rome2/PlayDrone1000Category/BOOKS_AND_REFERENCE/amplified.bible-8.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:58792  :::*                    LISTEN      8402/com.google.and
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.tv3.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.hl.sketchtalk-101.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/com.AlFransi-9.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/com.gismart.guitar-210.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.huntstand.core-10.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.repost-24.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDICAL/com.sample.medassist-18.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.plurk.android-40.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wtol.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.sanfrancisco-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wjbk.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/fi.mtvkatsomo-2239.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.plexapp.plex-3136.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:57161  :::*                    LISTEN      12470/com.google.an
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wsfa.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/EDUCATION/com.vng.dict.app-153.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDICAL/jp.co.igakushoin.IgakuShoinViewerV2-7.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/simtalk2.p01-165.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.krcr.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDICAL/com.rimel.glasgownowfree-2.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::42422                :::*                    LISTEN      13797/com.rimel.gla
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.metago.astro-629.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/pl.sport.live-20007.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.delitestudio.filetransferfree-12059.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/nh.smart.card-26.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::9995                 :::*                    LISTEN      14765/nh.smart.card
+tcp        0      0 :::4114                 :::*                    LISTEN      14683/nh.smart.card
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/muscular.hdcar.in.ganharmassamuscular-13030823.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::41095                :::*                    LISTEN      14962/muscular.hdca
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.berlin-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.strangerchat-3016.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRANSPORTATION/com.edwardkim.android.carlocatorfree-84.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMICS/com.minikara.comic-2.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.orchid.yinghua-2.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/dukanruso.pimpstore.info.russiandukan-14100516.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::53166                :::*                    LISTEN      16041/dukanruso.pim
+END
+/nfs/rome2/PlayDrone1000Category/SHOPPING/com.etudehouse-19.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/jp.co.flight.android.soicha-168.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/icatch.video.h264-15.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.WhizNets.locationtracker-82.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wtvm.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRANSPORTATION/com.car2go-129.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/alimitalia.hdcar.in.cibibruciagrassi-13012721.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::58762                :::*                    LISTEN      17392/alimitalia.hd
+END
+/nfs/rome2/PlayDrone1000Category/SHOPPING/com.mtag.att.codescanner-138.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.tongwei.blockbreaker-10917.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.estrongs.android.pop.cupcake-82.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.kiwi.westbound-79.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.androbex.activity-301.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/com.m4u.cielomobile-25.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIFESTYLE/com.mogujie-400604.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIBRARIES_AND_DEMO/com.leakedbits.codelabs-6.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/gluteos.tumejorfrase.net.ejerciciosparagluteos-13010318.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::52459                :::*                    LISTEN      19267/gluteos.tumej
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.tongwei.toiletGame-9104.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.gtp.nextlauncher.liverpaper.honeycomb-21.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.perblue.titanempires-103028.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.alpinereplay.android-38.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.khas.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SHOPPING/com.ScanLife-53.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.canica.apps.futsal-9.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/vn.ge.neymar.wallpaper-4.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SHOPPING/com.ocito.laredoute-22.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.sbits.blink-628.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/at.geekazoid.mobile.ymote.lite-51.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.mingpao.mpnewsandroid-12.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/mlc.printtrial-12.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/mobi.teren-5.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.orchid.lovers-4.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/ENTERTAINMENT/com.shortstack.riobackup-24.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/com.sanofiaventis.GoMeals-7.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wkyc.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/gr.globo.citrongo.enterprise.client-43.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDICAL/com.haullimcnd.bw114-11.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.littlewoody.appleshoot-9.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.singapore-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PHOTOGRAPHY/com.dngames.mobilewebcam-146.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/ENTERTAINMENT/com.andro.moviereview-701080.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.smilerlee.jewels-9.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.gamevil.spiritstones.global.free-127.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.mw.slotsroyale-100.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/realfont.editor-20140423.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.lewatmana.LewatMana-20.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.foxsports.android-20.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.catstudio.littlesoldiers-71.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.jkanime-55.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/me.everything.launcher-5443435.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.mxit.android-76.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.intsig.camscanner-3610.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.frojo.moy3.android-14.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.ksaz.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/quess.song.music.pop.quiz-9023221.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.florence-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/com.br.nutrisoft.main-93.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/com.alkalinelabs.virtualacousticguitar-22.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/ro.yo3ggx.rxtx-7107.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.eat24.app-74.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.bulletproof.voicerec.intern-245.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.access_company.android.nflifedocuments-61.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMICS/org.kill.geek.bdviewer-2010702.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:35.0.122.225:34078 :::*                    LISTEN      30432/org.kill.geek
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/com.taobao.qianniu-54.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kmsp.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.pinterest-351.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.paris-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.budapest-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/com.gismart.realpianofree-112.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wfie.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.mylikes.likes-79.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/net.funordie.reshetplay-11.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.bw.onair-7.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/ENTERTAINMENT/com.rhythmnewmedia.android.e-43711.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/quemarusa.hdcar.in.russiandiet-13020818.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::53990                :::*                    LISTEN      1133/quemarusa.hdca
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wfmz.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.et.easy.download-233.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/ENTERTAINMENT/com.cognitial.directvremote-56.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::1051                 :::*                    LISTEN      1796/com.cognitial.
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.datingchat-23.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.rhmsoft.fm.hd-20110161.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.buzzni.adme-202090.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kthv.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.seriouscorp.clumsybird-7.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.sec.spp.push-102.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BOOKS_AND_REFERENCE/com.alkalinelabs.learnguitarchords.advanced-9.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/cn.banshenggua.aichang-3461.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wave.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDICAL/wikitotal.com.plantasmedicinales-1165148.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::40660                :::*                    LISTEN      4229/wikitotal.com.
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.ktul.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.orchid.rose-3.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kvly.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.droidhermes.bottleninja-16.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.wefi.wefi-4407.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.tennismath.ui.android-351.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.tokyo-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.truemobile.ipdisk-8.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.michelin.voyage-6.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kutv.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMICS/com.giantland.avatar-14.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.mpisoft.doors2.beta-13.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.schlager.mgc-145.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/net.peakgames.OkeyPlus-38.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIBRARIES_AND_DEMO/aliquema.hdcar.in.alimentosquemagrasas-13012118.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::39119                :::*                    LISTEN      9917/aliquema.hdcar
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.iiordanov.freebVNC-113630.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kusa.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/EDUCATION/br.com.passeidireto-28.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.appgame7.candyfrenzy-22028.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.stac.empire.main-365.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/no.vg.android.pent-11.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.washingtondc-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.orlando-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.linpus.purewater.free-68.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/viva.reader-63.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.opentech.calcalist-29.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.okhello.typhoid.release-903.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/EDUCATION/com.rosettastone.mcp-1020700.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/org.wordpress.android-144.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.akingi.tc-32.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRANSPORTATION/com.iboss.smarttaxi.passenger-45.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wgrz.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIFESTYLE/com.getpebble.android-394.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::8129                 :::*                    LISTEN      14202/com.getpebble
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.discovery.news-103.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kait.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.touchqode.editor-16.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.evgit.needagoal-17.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kfyr.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wrc.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIFESTYLE/com.F1.ShinSG-98.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.fluik.OfficeJerkFree-1715.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kltv.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.cupidschat-23.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/tv.wallop.android-103.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/ENTERTAINMENT/com.magicsolver.adventcalendar2013-3.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.androider.videoloader-1.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/br.com.aimtecnologia.pointbypointlite-40.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.rtve.eltiempo-9.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.etoolkit.snoxter-68.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/relampago.hdcar.in.dietarelampago-12123115.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::59315                :::*                    LISTEN      18357/relampago.hdc
+END
+/nfs/rome2/PlayDrone1000Category/PHOTOGRAPHY/com.rcplatform.instamark-113.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIFESTYLE/com.aufeminin.marmiton.activities-24.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.oakley.fon-320061.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/de.fun2code.android.pawserver-84.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.bangkok-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.isharing.isharing-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/cn.menue.taidong.internation-11.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BOOKS_AND_REFERENCE/bibliabible.com.biblethemessage-11123113.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::40612                :::*                    LISTEN      19793/bibliabible.c
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wkrc.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/xxx.iku-13.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.gaychat-3016.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.koushikdutta.tabletsms-1020.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/ejercisios.hdcar.in.bajalapanza-13021514.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::56127                :::*                    LISTEN      20724/ejercisios.hd
+END
+/nfs/rome2/PlayDrone1000Category/EDUCATION/com.intriga_games.englishlessonpastsimple-5.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/net.devking.randomchat.android-20607.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDICAL/com.sample.mkb10-7.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wlox.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wzzm.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.vienna-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.madrid-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kcrg.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.chicago-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/nh.smart-64.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::2253                 :::*                    LISTEN      22784/nh.smart:engi
+tcp        0      0 :::3408                 :::*                    LISTEN      22740/nh.smart
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.bigflower.burgerandroid-4.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.taiwanmobile.myVideo-355.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRANSPORTATION/taxi.android.client-672.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wttg.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/caseros.hdcar.in.ejercicioscaseros-13012319.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::38645                :::*                    LISTEN      24014/caseros.hdcar
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wifr.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/abdoruso.pimpstore.info.absrussian-13022216.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::43033                :::*                    LISTEN      24497/abdoruso.pimp
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.venice-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wis.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BOOKS_AND_REFERENCE/bibliabible.com.amplifiedbible-11123224.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::39302                :::*                    LISTEN      25170/bibliabible.c
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/com.IBK.SmartPush.app-27.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.yuandroid.touchPTT-141014.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/com.companionlink.clusbsync-651.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:34275  :::*                    LISTEN      26155/com.google.an
+tcp        0      0 ::ffff:35.0.122.225:28003 :::*                    LISTEN      25650/com.skype.rai
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.orchid.fairytale-7.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.barcelona-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kxas.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wpsd.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SHOPPING/com.buzzni.android.subapp.shoppingmoa-702040.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/henrich.thandroid.floor-8.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.wunderkinder.wunderlistandroid-438.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.nokta.izlesene-493.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.ksl.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.lcmobileapp.escapetheprisonroom-5.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.diotek.dionote-21.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/LIBRARIES_AND_DEMO/org.apache.maps-3.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.estrongs.android.pop-219.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::59777                :::*                    LISTEN      28721/com.estrongs.
+tcp        0      0 :::42135                :::*                    LISTEN      28721/com.estrongs.
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/br.com.grubster.android-39.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.necn.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.whitepages.search-16.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.mrnumber.blocker-149.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.newyorkcity-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/deprembilgisistemi.v21-4.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wrcb.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.ksfy.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMMUNICATION/com.talkray.client-123.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/ru.hudeem.adg-38.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wboc.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wxia.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wlex.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.istanbul-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kold.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.agilemobile.im.android2-152.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/ar.com.kinetia.ligaargentina-90.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.votoxveto.app-9.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.mttnow.droid.transavia-10605.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wlbt.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.digiturk.iq.mobil-1414215.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/brulegraisse.hdcar.in.leregimebrulegraisses-12123000.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::42305                :::*                    LISTEN      4536/brulegraisse.h
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.padi.mobile-28.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.frojo.virtualpet-44.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.ksla.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/ENTERTAINMENT/com.TWCableTV-1244363.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/pregnantru.hdcar.in.russianpregnant-14092322.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::33216                :::*                    LISTEN      5818/pregnantru.hdc
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/in.mettletech.livescore-23.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/com.tss.one-305.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PERSONALIZATION/com.tribok.android.livewallpaper.icsclassic.lite-31.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wect.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.catalog-10.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/com.alkalinelabs.piano-19.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/another.music.player-163.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::5000                 :::*                    LISTEN      7448/another.music.
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.waga.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRANSPORTATION/hk.easyvan.app.client-435.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BOOKS_AND_REFERENCE/br.com.abril.iba.ebooks-54.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.vuplus.vuplusplayer-20.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/com.everydayhealth.android.wtebaby-18.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.cmoremap.evermore.twplace21-7.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SHOPPING/com.vouchacha.mvc.vouchers-12.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/br.gov.infraero-14.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.magicyang.doodle-6.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.byril.seabattle-17.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/com.everydayhealth.android.southbeachdiet-30.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDICAL/com.medpreps.ptcbprep-8.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.nliteapps.findmyfriends-48.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/de.amberhome.weather2free-16.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/younow.live-63.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/pl.gazeta.live-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.bytesequencing.spades_ads-188.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.woio.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.mobilityware.solitaire-50.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.pixable.photofeed-111925.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/HEALTH_AND_FITNESS/feminasoft.toc.android-20.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/COMICS/com.khontummhada.chadok500.mini-6.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/GAME/com.kiwi.shipwrecked-2115.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/pl.solidexplorer-77.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/turbo.client-78.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MUSIC_AND_AUDIO/com.rene.beatmaker-10.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.tvalabama.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SOCIAL/com.cshare-4.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/NEWS_AND_MAGAZINES/com.rtve.mas24-8.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/PRODUCTIVITY/com.et.easy.download.pro-1101.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wsyx.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/FINANCE/com.softforum.sample-95.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/etc.com.android-4.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/BUSINESS/com.chegal.mobilesales-46.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRANSPORTATION/com.snappsteam.subway-50100.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.london-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wbtv.android.weather-28300.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.tripadvisor.android.apps.cityguide.rome-42.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/TRAVEL_AND_LOCAL/com.yoc.swiss.swiss-11.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/SPORTS/mujeres.hdcar.in.ejerciciosparamujeres-13031818.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::54947                :::*                    LISTEN      16609/mujeres.hdcar
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.oryza.myairquality-8.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/MEDIA_AND_VIDEO/com.badois.youtube-133.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.wmc.android.weather-28301.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/PlayDrone1000Category/WEATHER/com.kdfw.android.weather-28300.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END

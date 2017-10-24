@@ -1,0 +1,1655 @@
+/nfs/rome2/Anzhi10000/com.xinpluskupao.app.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tejia.baoyou.client2015748.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.hyhy.qc4s.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.dooblou.WiFiFileExplorerPRO.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::8000                 :::*                    LISTEN      26122/com.dooblou.W
+END
+/nfs/rome2/Anzhi10000/air.com.A3aapp.dydjcksbd.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.aheading.news.shuqianrb.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::7777                 :::*                    LISTEN      26619/com.aheading.
+END
+/nfs/rome2/Anzhi10000/com.dianping.t.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::9700                 :::*                    LISTEN      26888/com.dianping.
+END
+/nfs/rome2/Anzhi10000/com.yingshibao.gsee.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.feiniu.market.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.com.pcdriver.android.browser.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tixa.industry.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.Android56.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.anzogame.game.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.wuyixunhui.retriever.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.volosyukivan.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::7777                 :::*                    LISTEN      29078/com.volosyuki
+END
+/nfs/rome2/Anzhi10000/com.defianttech.diskdiggerpro.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/manbu.cc.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.skyfire.browser.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::9554                 :::*                    LISTEN      29775/com.skyfire.b
+END
+/nfs/rome2/Anzhi10000/com.taomee.taozuowen.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.diandong.xueba.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.skyblue.vguo.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.banma.magic.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tixa.industry1560.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.hc.hulakorea.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.alensw.PicFolder.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.xq.main.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.zcdog.smartlocker.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.itings.myradio.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.ffcs.dh201406052200090502xxx001080.cartoonplayer.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/me.ele.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.lovinc.radio.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::7777                 :::*                    LISTEN      613/com.lovinc.radi
+END
+/nfs/rome2/Anzhi10000/com.dlna.renderer.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:35.2.53.174:39520 :::*                    LISTEN      803/com.dlna.render
+END
+/nfs/rome2/Anzhi10000/cn.zhui.client920386.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/aMao.apkManager.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.renhua.screen.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.wanmeizhensuo.zhensuo.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.creditease.zhiwang.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.zhangdan.app.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.imusic.iting.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.inisoft.mediaplayer.a.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.budejie.mimi.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.zhui.client2009347.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.lianlian.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.ziipin.mobile.weiyumusic.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.babao.haier.tvrc.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::8081                 :::*                    LISTEN      4389/com.babao.haie
+tcp        0      0 ::ffff:35.2.53.174:39858 :::*                    LISTEN      4389/com.babao.haie
+tcp        0      0 ::ffff:35.2.53.174:46620 :::*                    LISTEN      4389/com.babao.haie
+END
+/nfs/rome2/Anzhi10000/com.speaker.wish.method.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tuan800.tao800.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.netease.pris.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.focusdroid.salary.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.sysapk.phoneu.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.rexsee.mobile_time_com.a.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.oxa7.shou.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.jabber.ebank.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.fsti.mv.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.zhihui.Wallpaper48.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.anjuke.android.haozu.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.youyuan.yhb.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.xhlx.android.hna.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.pocdoc.majiaxian.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.Qunar.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.estrongs.android.pop.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::59777                :::*                    LISTEN      8137/com.estrongs.a
+tcp        0      0 :::42135                :::*                    LISTEN      8137/com.estrongs.a
+END
+/nfs/rome2/Anzhi10000/com.snda.client.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.android.shop.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.meitu.meipaimv.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/im.kuaipai.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.laoyuegou.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.longmaster.pengpeng.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.game4lol.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.jiajiatv.activity.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.google.android.apps.docs.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.aibang.android.ablife.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.worldpeace.android.plugin.ledclock.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.trendmicro.tmmspersonal.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.olivephone.edit.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::2121                 :::*                    LISTEN      11382/com.olivephon
+END
+/nfs/rome2/Anzhi10000/com.huayuni.tobestar.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.wifi.lab.jiaqiang.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.mamering.flashlight.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.anysoft.at.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.alicall.androidzb.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/yunyun.gloabal.weixing.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.dyj.lottery.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.zhui.client1798907.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.dotools.weather.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.cyou.strategy.coc.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.happigo.activity.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.jsict.jszx.lovers.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::41668                :::*                    LISTEN      14557/com.jsict.jsz
+END
+/nfs/rome2/Anzhi10000/com.thefansbook.weibotopic.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.xdtech.news.greatriver.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.konka.MultiScreen3.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.lenovo.anyshare.cloneit.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::55283                :::*                    LISTEN      15392/com.lenovo.an
+tcp        0      0 :::2999                 :::*                    LISTEN      15392/com.lenovo.an
+END
+/nfs/rome2/Anzhi10000/com.jrtstudio.AnotherMusicPlayer.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.kh.headgps.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.lasun.mobile.client.activity.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.cec.zhihu.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.duoduo.child.story.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.zhui.client1512271.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.biz_package383.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.huawei.phoneplus.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.youloft.calendar.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::22666                :::*                    LISTEN      17906/22666
+END
+/nfs/rome2/Anzhi10000/com.xunyou.zmxyOL.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.culiu.tenpics.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/wind.deposit.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.diandian.apzone.ytfj.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::45213                :::*                    LISTEN      18918/com.diandian.
+END
+/nfs/rome2/Anzhi10000/com.baidu.voiceassistant.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.daroonplayer.player.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.didirelease.view.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.zhui.client762431.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.runbey.ybjk.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.jiasoft.highrail.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.temobi.mdm.lohas.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.stkj.android.wifishare.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.gold.palm.kitchen.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.baidu.finance.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/peace.org.tm.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.morega.wifipassword.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.cnlive.shockwave.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:35.2.53.174:46514 :::*                    LISTEN      21958/com.cnlive.sh
+END
+/nfs/rome2/Anzhi10000/fm.clean.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.ct.sx.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:35.2.53.174:46351 :::*                    LISTEN      22477/com.ct.sx.and
+END
+/nfs/rome2/Anzhi10000/com.huizheng.tcyyhz.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.chanyouji.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.jobcn.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/xcxin.filexpert.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::46195                :::*                    LISTEN      23337/xcxin.filexpe
+END
+/nfs/rome2/Anzhi10000/com.newcapec.mobile.ncp.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.pingan.papd.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.sinovatech.unicom.ui.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.uhpafnc.ibgg.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.hexin.plat.kaihu.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.auyou.jieban.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.chinamworld.bocmbci.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.tv009.gpsdwq.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.mpo.dmc.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.zhongguozuche.ilovebus.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::51232                :::*                    LISTEN      25616/com.zhongguoz
+END
+/nfs/rome2/Anzhi10000/com.snda.uvanmobile.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.baidao.ytxmobile.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/air.a102621968.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.yisheng.epayment.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.douban.frodo.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::11111                :::*                    LISTEN      26723/com.douban.fr
+END
+/nfs/rome2/Anzhi10000/com.kdweibo.client.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.mucang.city.weizhang.android.launcher.beijing.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/lg.uplusbox.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.jiuman.album.store.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.manyi.lovehouse.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tixa.industry979.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.yoosal.kanku.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.szzc.ucar.pilot.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tshang.peipei.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tusij.lk.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.sbaike.client.xinhua.zidian2.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/air.com.sqstudio.ticketAd.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.trs.xizang.voice.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:9090   :::*                    LISTEN      30134/com.trs.xizan
+END
+/nfs/rome2/Anzhi10000/com.iktv.ui.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/oms.mmc.fortunetelling.hexagramssign.xiuxingzhe.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.mmmono.mono.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.coupleworld2.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.house365.newhouse.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.zhui.client1034892.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.doubleTwist.androidPlayer.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:35.2.53.174:9968 :::*                    LISTEN      31720/com.doubleTwi
+END
+/nfs/rome2/Anzhi10000/com.mobisystems.office.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.weiju.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.waqu.android.vertical_engkouyu.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.doujiao.coupon.activity.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.l99.bed.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/oms.mmc.fortunetelling.fate.eightcharacters.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.klinker.android.messaging_donate.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.mobisystems.fileman.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.sankuai.hotel.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::9517                 :::*                    LISTEN      1672/com.sankuai.ho
+END
+/nfs/rome2/Anzhi10000/com.metersbonwe.www.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:55741           0.0.0.0:*               LISTEN      2135/libtpnsWatchdo
+END
+/nfs/rome2/Anzhi10000/com.ahtv.ayou.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.icecoldapps.screenshotultimatepro.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.boohee.one.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.sdy.chaoxin.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.zdit.advert.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.imo.android.imoimbeta.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.coomix.follow.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/air.com.heyushikong.vchat.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.fjxq.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/org.microemu.android.app.Stock.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.ruoogle.nova.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tencent.androidqqmail.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.savecall.ui.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/me.drawwiz.mygirl.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.fingertipaccess.ultimatevr.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.adkiller.mobi.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.fotoable.helpr.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.change.unlock.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.videon.android.mediaplayer.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.welove520.welove.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.gd.ctvip.ui.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cc.mingyihui.activity.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.google.android.youtube.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.instamag.activity.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.hers.mzwd.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.kugou.fm.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.kibey.echo.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.mijie.homi.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/eu.chainfire.dslrcontroller.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.yaya.zone.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.cdel.med.phone.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.tencent.qt.qtx.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.hkyc.shouxinparent.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.lenovo.launcherhdmarket.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.mfw.voiceguide.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.linkedin.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/cn.eshore.btsp.enhanced.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:48420  :::*                    LISTEN      7617/com.google.and
+END
+/nfs/rome2/Anzhi10000/com.exam8.twojian.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.think_android.appmanagerpro.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.guotai.dazhihui.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.baidu.BaiduMap.fute.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.yipiao.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.renren.mobile.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/net.qfpay.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.baidu.movie.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.martino2k6.fontchanger.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.moji.mjweather.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.wei.android.apis.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.onemore.aircable.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::1234                 :::*                    LISTEN      13924/com.onemore.a
+END
+/nfs/rome2/Anzhi10000/com.yoloho.dayima.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.zhihui.Wallpaper51.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.icaikee.xrzgp.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.skysoft.kkbox.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.sonydna.millionmoments.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.touchnote.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.wt.tutor.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.xhbn.yo.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.liveyap.timehut.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.ouyew.xxxx.client1219715.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.cmmobi.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.ricebook.activity.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.dingphone.plato.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.meishixing.crazysight.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.google.android.videos.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.kindroid.flashmachine.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.thel.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/my.beautyCamera.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.xinmei365.font.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:55500           0.0.0.0:*               LISTEN      18772/libtpnsWatchd
+END
+/nfs/rome2/Anzhi10000/com.android.happybaby.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.up91.androidhd.p3.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.HisenseMultiScreen.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.jxl.note.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::7777                 :::*                    LISTEN      19576/com.jxl.note:
+END
+/nfs/rome2/Anzhi10000/com.diandian.apzone.yflgdg.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::40876                :::*                    LISTEN      19774/com.diandian.
+END
+/nfs/rome2/Anzhi10000/com.yinyuetai.fangarden.fx.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.xs.cn.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.JOYMIS.listen.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.eg.android.AlipayGphone.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.lolaage.tbulu.tools.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.kuwo.kwmusichd.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.ishow4s.mengniu74.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.codingcaveman.SoloTrial.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.wuxiantai.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.anydo.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.koudai.weishop.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:55699           0.0.0.0:*               LISTEN      22737/libtpnsWatchd
+END
+/nfs/rome2/Anzhi10000/pinkdiary.xiaoxiaotu.com.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.estrongs.android.pop.cupcake.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.duan.xx.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/scan.bcr.ch.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.rcreations.WebCamViewerPaid.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.payegis.mobile.energy.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.sz.china.mycityweather.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.app.haotougu.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tonglu.survey.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.speedsoftware.rootexplorer.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.cnlaunch.golo3.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.caimi.kuaidai.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.taptech.xingfan.exo.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.asus.email.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.mingdao.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.mimimix.feimao.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.maaii.maaii.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.nineton.artsign.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tencent.QQLottery.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:55765           0.0.0.0:*               LISTEN      27086/libtpnsWatchd
+END
+/nfs/rome2/Anzhi10000/com.twentyfirstcbh.epaper.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.ttyongche.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.sumavision.talktvlol.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::7777                 :::*                    LISTEN      27986/com.sumavisio
+END
+/nfs/rome2/Anzhi10000/com.epay.impay.ui.jfpal.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.quickbird.mini.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/tv.acfundanmaku.video.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.waqu.android.vertical_yoga.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.jd.paipai.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.superlib.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.hwl.universitystrategy.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.hotpies.turtleisle.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.mywalls.mzcelbdacYtDJhLpLgE.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.shiwan.android.lol.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.mainbo.uplus.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.kanke.video.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.pr.zpzk.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.com.chinatelecom.account.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.zhui.client739958.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/ccc71.at.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.bankcomm.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.cs090.android.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::7777                 :::*                    LISTEN      32103/com.cs090.and
+END
+/nfs/rome2/Anzhi10000/com.mobilewindow.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:55586           0.0.0.0:*               LISTEN      32496/libtpnsWatchd
+END
+/nfs/rome2/Anzhi10000/cn.zhui.client627058.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.ccy.android.onekeyclean.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.infraware.office.link.china.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::7777                 :::*                    LISTEN      1140/com.infraware.
+END
+/nfs/rome2/Anzhi10000/cn.yicha.mmi.facade3998.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/air.Examination.p12.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.dbc.videoplayer.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::7777                 :::*                    LISTEN      1887/com.dbc.videop
+END
+/nfs/rome2/Anzhi10000/com.idothing.zz.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.sssoft.nail.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/in.huohua.Yuki.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.youku.paike.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.cncn.traveller.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.jesson.meishi.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.suixingpay.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.idddx.lwp.frozen.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.anzogame.jl.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::7777                 :::*                    LISTEN      4205/com.anzogame.j
+END
+/nfs/rome2/Anzhi10000/gpc.myweb.hinet.net.PopupVideo.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/me.hada.line.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.lanxin.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.waqu.android.general_video.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.youku.crazytogether.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.zhenai.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.bistone.bistonesurvey.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.mfw.voiceguide.thai.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.almalence.night.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.autoconnectwifi.app.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.cp918.Activity.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/air.ynfo.batteryrepair.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.mywall.nlbczcgfboJyeieLwDA.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.yiche.price.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.domobile.efile.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.jlusoft.microcampus.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.chainton.danke.reminder.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.oppa.qz1yuan.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/project.rising.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/easaa.middleware.e13111309472810.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.uusns.moyou.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.eclicks.kaojiazhao.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.zscfappview.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:55790           0.0.0.0:*               LISTEN      9648/libtpnsWatchdo
+END
+/nfs/rome2/Anzhi10000/me.chunyu.ChunyuDoctorHD.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/smc.ng.yuetv.a.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.clov4r.android.nil.x86.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.taonan.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.hundsun.winner.pazq.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tixa.enterclient1477.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.youyuan.jqyh.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.mfw.roadbook.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:7777   :::*                    LISTEN      11504/com.mfw.roadb
+END
+/nfs/rome2/Anzhi10000/secret.app.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tixa.enterclient113.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.daxiang.niceday.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.ubercab.driver.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.ziipin.softkeyboard.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.slanissue.apps.mobile.childrensrhyme.custom.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.jiayuan.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.huaxi100.euro2012.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.telecom.tyikan.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.renxing.xys.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.moretv.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 :::12580                :::*                    LISTEN      14141/com.moretv.an
+tcp        0      0 :::12581                :::*                    LISTEN      14141/com.moretv.an
+END
+/nfs/rome2/Anzhi10000/com.waqu.android.vertical_ttkupao.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/air.ivp.qq.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.bosheng.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.telecom.video.ikan4g.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 fe80::608d:3aff:fe9d:7e3d:8058 :::*                    LISTEN      15054/com.telecom.v
+tcp        0      0 ::ffff:35.2.53.174:8058 :::*                    LISTEN      15054/com.telecom.v
+tcp        0      0 fe80::facf:c5ff:fed1:6c1f:8058 :::*                    LISTEN      15054/com.telecom.v
+tcp        0      0 fe80::b72b:42d2:a13f:737d:8058 :::*                    LISTEN      15054/com.telecom.v
+END
+/nfs/rome2/Anzhi10000/cn.zhui.client640269.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.bingime.ime.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.chinatelecom.pim.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.teamnet.doudou.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.cooeeui.brand.turbolauncher.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.hooli.jike.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.sfbest.mapp.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.baidu.kx.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.lesports.glivesports.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:6990            0.0.0.0:*               LISTEN      16882/com.lesports.
+tcp        0      0 0.0.0.0:55033           0.0.0.0:*               LISTEN      17036/libtpnsWatchd
+END
+/nfs/rome2/Anzhi10000/com.imaygou.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.eclicks.driving.subject1.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.alimama.moon.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.itita.fp.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.yy.android.gamenews.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.hoge.android.xuzhou.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.ghisler.android.TotalCommander.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tencent.mtt.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.pplive.androidphone.gnb.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tencent.ibibo.mtt.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.waqu.android.vertical_cf.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.evideo.MobileKTV.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.endomondo.android.pro.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.mei.melkor.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.aptech.QQVoice.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.wukongtv.wkremote.client.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.sspace.tingshuo.android.mobile.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.tencent.radio.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:15003  :::*                    LISTEN      21657/com.tencent.r
+END
+/nfs/rome2/Anzhi10000/com.qiconstantin.filerec.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 ::ffff:127.0.0.1:12969  :::*                    LISTEN      21993/com.qiconstan
+END
+/nfs/rome2/Anzhi10000/com.kerui.aclient.smart.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/net.flashapp.Activity.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:8000            0.0.0.0:*               LISTEN      22422/net.flashapp.
+END
+/nfs/rome2/Anzhi10000/com.letv.android.client.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:6990            0.0.0.0:*               LISTEN      22663/com.letv.andr
+END
+/nfs/rome2/Anzhi10000/net.bontec.cj.activity.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/cn.TuHu.android.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.apprush.play.files.apk
+netstat: showing only processes with your user ID
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.saida.sjkd.lsb.apk
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+END
+/nfs/rome2/Anzhi10000/com.wumii.android.apk
+/nfs/rome2/Anzhi10000/com.baidu.baiducamera.apk
+END

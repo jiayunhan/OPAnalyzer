@@ -1,0 +1,13 @@
+12345 : GET  /snapshot => adylitica.android.anysend
+8000  : GET  /  => file sharing server
+7145  : GET /test.js => AppLovin framework
+2122  : GET / => zhan.android.aircable-31
+2211  : GET / => FTP
+55555 : GET / => net.altahami.android.tools.wififileaccess
+58888 : GET / => AppMobi
+7777 : GET / => net.flashapp.Activity
+7864 : GET /wni/wnInterface.js => nh.smart.nhibzbanking
+40310 : GET /geolocation?callback=012&mcmdf=inapp_aa => Baidu 
+6259 : GET /getpackageinfo?callback=123&packagename=com        Referer="http://m.baidu.com/
+6677 : GET /androidmap?action=showTraffic => gaode map         
+
